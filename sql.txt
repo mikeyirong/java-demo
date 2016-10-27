@@ -1,0 +1,6 @@
+CREATE TABLE qq_acount(
+principal VARCHAR(50),
+credentials VARCHAR(50)
+)
+
+INSERT INTO qq_acount VALUES('45544554','566556');
